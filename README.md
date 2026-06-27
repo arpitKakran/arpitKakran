@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Arpit Kakran</h1>
 
 <h3 align="center">
@@ -145,4 +144,3 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
-```
