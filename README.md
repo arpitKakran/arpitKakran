@@ -29,7 +29,7 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer specializing in **React, Next.js, Django & Node.js**
-- 🧩 Solved **100+ DSA Problems** on LeetCode
+- 🧩 Solved **300+ DSA Problems** on LeetCode
 - 🚀 Built automation features and optimized workflows for a production visa processing platform
 - 🌱 Currently learning **System Design, DevOps & Cloud**
 - 🎯 Open to **Software Engineering Internship** opportunities
