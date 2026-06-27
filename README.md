@@ -6,8 +6,7 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
 </h3>
 
 <p align="center">
-🎓 Instrumentation & Control Engineering Student <br>
-💼 Full Stack Developer Intern @ Omnisol <br>
+💼 Full Stack Developer Intern <br>
 🚀 Passionate about Backend Development, System Design & Scalable Applications
 </p>
 
@@ -138,7 +137,7 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arpitKakran&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=arpitKakran&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
