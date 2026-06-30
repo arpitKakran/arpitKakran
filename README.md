@@ -19,9 +19,6 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
   <a href="mailto:arpitinsan77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Kakran0105/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -93,16 +90,6 @@ Full Stack Developer • MERN Stack • Django • DSA Enthusiast
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=arpitKakran&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 LeetCode
-
-<p align="center">
-<a href="https://leetcode.com/u/Kakran0105/">
-<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 </p>
 
 ---
