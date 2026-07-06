@@ -1,133 +1,152 @@
-<h1 align="center">Hi 👋, I'm Arpit Kakran</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • Django • DSA Enthusiast
-</h3>
+# Arpit Kakran
 
-<p align="center">
-💼 Full Stack Developer Intern <br>
-🚀 Passionate about Backend Development, System Design & Scalable Applications
-</p>
+### Full Stack Developer • Problem Solver
 
-<p align="center">
-  <a href="https://github.com/arpitKakran">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arpit-kakran-22225128a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arpitinsan77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Building scalable web applications with **React**, **Next.js**, **Node.js**, and **Django**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-kakran-22225128a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitKakran)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitinsan77@gmail.com)
+
+> *Always building. Always learning.*
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-- 💻 Full Stack Developer specializing in **React, Next.js, Django & Node.js**
-- 🧩 Solved **300+ DSA Problems** on LeetCode
-- 🚀 Built automation features and optimized workflows for a production visa processing platform
-- 🌱 Currently learning **System Design, DevOps & Cloud**
-- 🎯 Open to **Software Engineering Internship** opportunities
+I'm a Full Stack Developer who enjoys building scalable backend systems and modern web applications.
 
----
+Currently I'm focused on improving my backend engineering skills through real production work while studying **System Design**, **Cloud**, and **DevOps**.
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,bash" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-### 🗄️ Databases & Cache
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,render,firebase,digitalocean,grafana" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
-<br><br>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+- 💼 Full Stack Developer Intern
+- 🚀 Backend-first developer
+- 🧩 300+ DSA problems solved
+- 🌱 Learning System Design, AWS & DevOps
+- 🎯 Looking for Software Engineering Internship / SDE opportunities
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Experience
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitKakran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitKakran&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## Full Stack Developer Intern
 
----
+Worked on a production Visa Processing Platform serving real users.
 
-# 🔥 GitHub Streak
+### Responsibilities
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arpitKakran&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitKakran&theme=tokyo-night&hide_border=true"/>
-</p>
+- Built backend APIs using Django & Django REST Framework
+- Developed production-ready frontend features using React & Next.js
+- Integrated PostgreSQL, Redis, Celery and RabbitMQ
+- Automated internal workflows
+- Fixed production bugs and optimized existing modules
+- Worked with deployment pipelines and production environments
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
+
+## Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+
+---
+
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+---
+
+## Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+
+---
+
+## DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery)
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Distributed Systems
+- AWS
+- Docker
+- Kubernetes
+- CI/CD
+- Design Patterns
+
+---
+
+# 🏆 Highlights
+
+- 💼 Full Stack Developer Intern
+- 🚀 Production experience with Django & React
+- 🧩 300+ DSA problems solved
+- ⚡ Experience with Redis, Celery & RabbitMQ
+- 🌍 Worked on real-world visa processing workflows
+- 📈 Continuously improving backend engineering skills
+
+---
+
+## 📫 Connect
 
 <p align="center">
+
 <a href="https://github.com/arpitKakran">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/arpit-kakran-22225128a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:arpitinsan77@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
----
 
-# 👀 Profile Views
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=arpitKakran&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+### Thanks for stopping by! ⭐
 
----
+*"Code. Learn. Improve. Repeat."*
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</div>
