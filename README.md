@@ -117,7 +117,7 @@ Worked on a production Visa Processing Platform serving real users.
 
 - 💼 Full Stack Developer Intern
 - 🚀 Production experience with Django & React
-- 🧩 300+ DSA problems solved
+- 🧩 450+ DSA problems solved
 - ⚡ Experience with Redis, Celery & RabbitMQ
 - 🌍 Worked on real-world visa processing workflows
 - 📈 Continuously improving backend engineering skills
